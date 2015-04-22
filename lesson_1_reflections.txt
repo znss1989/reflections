@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing a diff shows the changes between two versions of a file, with signs 
+    of '-' and '+' indicating deleted and added lines respectively.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having access to history can make me realize how a program or a project 
+    grows little by little, and tracking all the changes by me or by my parteners
+    in a team, making it easy to find bugs caused by wrongly changes.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually choosing when to create a commit allows having checkpoints with
+    logical changes. It is hard to track for lazy users who don't save at proper
+    stops.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because Git is code-oriented, and a repository of code files might be inter-
+    dependent. Thus some changes in the code should occur at all files within the
+    repository.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Within a specific respository, "git log" can be used to track all the commits
+    in the entire history of the respository. Once finished, "git diff" can 
+    exploit the commits ID to compare the specific changes. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control records the changes between each two adjacent commits 
+    allowing me to checkout any specific one to find where a possible bug is
+    brought in.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to try to use Git to manage the version control of my source code
+    for my research project.
