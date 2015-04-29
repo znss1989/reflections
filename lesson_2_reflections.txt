@@ -16,4 +16,12 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 
-	Using the diagram shows the structure of all the branches in a direct impression to help the user understand.
+	Using the diagram shows the structure of all the branches in a direct impression to help the user understand. Not sure about the answer...
+
+What is the result of merging two branches? Why do we represent it in the diagram the way we do?
+
+	Merging two braches would end in one, with the other be deleted. And the resulting commit would contain the changes made by both branches. Not sure about the second question.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git merge two branches automatically, when there is no conflicts, but deliver the problem to the user for manually deposing rather than deal with complicated guess. 
