@@ -1,1 +1,2 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+  That would happen when I'd like to make the poject public for anybody to review, or let it be eaiser to checked from other ends.
